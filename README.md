@@ -3,7 +3,7 @@
 
 
 
-Image classification was done through **Create ML**, an XCode Developer Tool. The trained ML can be found within the repository under the name "FreshOrRottenFruitBetter.mlmodel".
+Image classification was done through **Create ML**, an XCode Developer Tool. The trained ML can be found within the repository under the name "FreshOrRottenFruitBetter.mlmodel" in the folder called SmartCameraLBTA.
 
 Dataset of various different stale and fresh fruits images was found on **Kaggle** by Adithya Shirvastava, Rahul Sohadani, and Naren Khatwani.
 
